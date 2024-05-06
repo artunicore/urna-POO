@@ -1,0 +1,7 @@
+#bibliotecas para rodar a aplicação
+
+Flask==3.0.2
+peewee==3.17.1
+plotly==5.20.0
+
+#rodar o arquivo 'app.py' e entrar no navegador com o endereço 'localhost:5000'
